@@ -1,3 +1,2 @@
-
-let yourArray = ['one', 2, 'three', true, false, undefined, null];
-console.log(yourArrayArray.length);
+arr = [1,"one",false,undefined];
+console.log(arr.length);
